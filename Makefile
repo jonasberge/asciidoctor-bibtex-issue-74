@@ -1,4 +1,4 @@
-build: parent.adoc child.adoc refs.bib
+build: parent.adoc refs.bib
 	asciidoctor \
 		-r asciidoctor-bibtex \
 		-o build/out.html \

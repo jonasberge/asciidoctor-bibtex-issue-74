@@ -1,5 +1,5 @@
 = Parent
 :toc:
 
-:parameter: World
-include::child.adoc[]
+:who: World
+== Hello {who}!
