@@ -1,3 +1,1 @@
-== {parameter}
-
-Hello {parameter}!
+== Hello {parameter}!

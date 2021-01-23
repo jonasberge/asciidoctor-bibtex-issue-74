@@ -6,3 +6,5 @@ build: parent.adoc child.adoc refs.bib
 
 install:
 	bundle install
+
+.PHONY: build install

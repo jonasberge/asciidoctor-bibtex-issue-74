@@ -1,5 +1,5 @@
-= Root
-:bibtex-file: refs.bib
+= Parent
+:toc:
 
 :parameter: World
 include::child.adoc[]
