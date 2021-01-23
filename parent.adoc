@@ -1,0 +1,5 @@
+= Root
+:bibtex-file: refs.bib
+
+:parameter: World
+include::child.adoc[]
